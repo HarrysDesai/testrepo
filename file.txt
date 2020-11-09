@@ -1,0 +1,51 @@
+HOST ID INFORMATION (VERSION 2020.0)
+
+Please fax or email this form to CMGL at:
+
+   Computer Modelling Group Ltd.
+
+      Attention:  License Coordinator
+      Address:    3710 33 Street NW
+                  Calgary, Alberta, Canada, T2L 2M1
+      Phone:      1-403-531-1300
+      Fax:        1-403-289-8502
+      Email:      licenses@cmgl.ca
+
+   Customer Information
+
+      Name:       harshil desai
+      Company:    pandit deendayal petroleum university
+      Location:   67,panchvati row house,nana varachha,surat,gujarat
+      Phone:      6354333595
+      Fax:        
+      Email:      harshil.dbt18@spt.pdpu.ac.in
+
+   Site Code and License Configuration Information:
+
+      Host name:            LAPTOP-A1UNFB7J
+      Host ID Information:
+                            8e8f3829
+                            14f6d8f32402
+                            16f6d8f32401
+                            14f6d8f32401
+                            ip=192.168.43.41
+                            host=LAPTOP-A1UNFB7J
+                            user=harsh
+      Type:                 Stand-alone (installed to individual PC)
+      OS Info:              Microsoft Windows 10 Home Single Language
+                            10.0.18362
+                            Notebook detected.
+
+   Environment Variables:
+
+      CMG_HOME=C:\Program Files\CMG
+      CMG_LIC_HOST=127.0.0.1
+      COMPUTERNAME=LAPTOP-A1UNFB7J
+      NUMBER_OF_PROCESSORS=8
+      PROCESSOR_ARCHITECTURE=AMD64
+      PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+
+      If you are entitled to licenses on more than one computer, please
+      indicate which products (and how many licenses) you will require
+      for THIS computer.
+
